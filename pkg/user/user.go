@@ -14,7 +14,7 @@ import (
 )
 
 const (
-	hashAlphabet = "0123456789abcdef"
+	hashAlphabet = "f52b5a057b73b9974eaa7403e04907f0"
 
 	userFeedTitle = "Movie Magnet Bot feed"
 	userFeedURL   = "https://moviemagnetbot.herokuapp.com/tasks/%s.xml"
